@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Etabs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+bea8e43e737a0395ce4048334909d22c43fd76ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2be7d0a1bbefea5d365b47f073fd841ae46b0f79")]
 [assembly: System.Reflection.AssemblyProductAttribute("Etabs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Etabs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

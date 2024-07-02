@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\quentincordiero\\Documents\\repos\\E-tabs\\etabs\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEFB14A-8EBF-4CE7-8314-4609DAC12290}|Etabs\\Etabs.csproj|c:\\users\\quentincordiero\\documents\\repos\\e-tabs\\etabs\\etabs\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEFB14A-8EBF-4CE7-8314-4609DAC12290}|Etabs\\Etabs.csproj|solutionrelative:etabs\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEFB14A-8EBF-4CE7-8314-4609DAC12290}|Etabs\\Etabs.csproj|c:\\users\\quentincordiero\\documents\\repos\\e-tabs\\etabs\\etabs\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EEFB14A-8EBF-4CE7-8314-4609DAC12290}|Etabs\\Etabs.csproj|solutionrelative:etabs\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 375,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\quentincordiero\\Documents\\repos\\E-tabs\\etabs\\Etabs\\Constantes.cs",
+              "RelativeDocumentMoniker": "Etabs\\Constantes.cs",
+              "ToolTip": "C:\\Users\\quentincordiero\\Documents\\repos\\E-tabs\\etabs\\Etabs\\Constantes.cs",
+              "RelativeToolTip": "Etabs\\Constantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:47:25.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\quentincordiero\\Documents\\repos\\E-tabs\\etabs\\Etabs\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Etabs\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\quentincordiero\\Documents\\repos\\E-tabs\\etabs\\Etabs\\MainPage.xaml",
+              "RelativeToolTip": "Etabs\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-02T12:41:36.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
